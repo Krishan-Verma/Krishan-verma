@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Krishan Verma
 - 👀 I’m interested in Game development.
-- 💞️ I’m work on challenging game projects.
+- 💞️ I work on challenging game projects.
 - 📫 Mail me on krishan2681999@gmail.com.
 - 💻 Currently Working at Aristocrat as Senior Unity Game Developer.
 
